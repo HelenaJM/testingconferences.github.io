@@ -173,6 +173,11 @@
   location: Buenos Aires, Argentina
   dates: "May 20-28, 2017"
   url: http://sbst2017.lafhis.dc.uba.ar/
+  
+- name: Nordic Testing Days 2017
+  location: Tallinn, Estonia
+  dates: "June 7-9, 2017"
+  url: http://nordictestingdays.eu
 
 - name: US Agile Testing Days (ATD) 2017
   location: Boston, MA, USA
